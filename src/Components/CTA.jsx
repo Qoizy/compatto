@@ -3,7 +3,7 @@ import call from "../assets/phone-call.jpeg";
 
 const CTA = () => {
   return (
-    <section className="px-6 md:px-8 lg:px-12 w-full">
+    <section className="px-6 md:px-8 lg:px-12 py-8 w-full">
       <div
         className="rounded-2xl bg-cover bg-center bg-no-repeat w-full h-[400px] flex flex-col items-center justify-center text-white px-4 md:px-12 text-center"
         style={{ backgroundImage: `url(${call})` }}

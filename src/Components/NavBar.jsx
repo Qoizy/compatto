@@ -11,7 +11,7 @@ const Navbar = () => {
 
   return (
     <nav className="absolute top-0 left-0 w-full z-50 py-12 md:py-16">
-      <div className="w-full max-w-[75%] sm:max-w-md md:max-w-xl lg:max-w-5xl mx-auto px-4 py-2 flex justify-between items-center bg-white rounded-full shadow-lg relative">
+      <div className="w-full max-w-[75%] sm:max-w-md md:max-w-xl lg:max-w-4xl mx-auto px-4 py-2 flex justify-between items-center bg-white rounded-full shadow-lg relative">
         <div className="text-xl font-semibold text-gray-800">
           <img src={logo} alt="compatto" className="w-[50%]" />
         </div>

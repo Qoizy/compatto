@@ -6,7 +6,7 @@ import img4 from "../assets/fur-4.png";
 
 const WhyChooseUs = () => {
   return (
-    <section className="p-6 text-[#1c1c1e]">
+    <section className="py-2 px-10 text-[#1c1c1e]">
       <h2 className="text-3xl font-semibold mb-8">
         Why <span className="text-[#c9a26b]">Choose</span> Compatto
       </h2>
